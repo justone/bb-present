@@ -11,7 +11,6 @@
     * Written in Clojure, compiled with GraalVM
     * Almost all of Clojure
         * No Protocols
-        * No eval
     * Lots of "batteries included" libs
         * clojure.string
         * clojure.set
